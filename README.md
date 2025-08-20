@@ -5,6 +5,9 @@
 - 🔭 I’m currently working on ...
 
 
+- 🌱 I’m open to learn (if you want to say something [Send Mail to me](MyMail))
+- 👯 I’m the team player.
+
 ### Techs
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -13,23 +16,9 @@
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<!--
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <!-- IMAGES & LINKS -->
 
+[MyMail]: 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -42,3 +31,5 @@ Here are some ideas to get you started:
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Tailwind-url]: https://tailwindcss.com/
+[Tailwind.com]: https://img.shields.io/badge/tailwindcss-white?style=for-the-badge&logo=tailwindcss
