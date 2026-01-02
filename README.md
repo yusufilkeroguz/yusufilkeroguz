@@ -8,7 +8,7 @@
 - 🌱 I’m open to learn (if you want to say something [Send Mail to me](mailto:yusufilkeroguz@gmail.com)) or [Text to me](tel:+905424553088)
 - 👯 I’m the team player.
 - 🚀 I’m first learner.
-- 💻 I’m 
+- 💻 I’m full focus engineer.
 
 ### Techs
 * [![Next][Next.js]][Next-url]
