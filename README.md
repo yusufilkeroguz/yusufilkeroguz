@@ -2,11 +2,13 @@
 
 ### My name is 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on AI Film Generation (Long videos)
 
 
-- 🌱 I’m open to learn (if you want to say something [Send Mail to me](MyMail))
+- 🌱 I’m open to learn (if you want to say something [Send Mail to me](mailto:yusufilkeroguz@gmail.com)) or [Text to me](tel:+905424553088)
 - 👯 I’m the team player.
+- 🚀 I’m first learner.
+- 💻 I’m 
 
 ### Techs
 * [![Next][Next.js]][Next-url]
@@ -15,10 +17,10 @@
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Tailwind][Tailwind.com]][Tailwind-url]
 
 <!-- IMAGES & LINKS -->
 
-[MyMail]: yusufilkeroguz@gmail.com
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
